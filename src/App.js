@@ -16,7 +16,7 @@ function App() {
           <small>This project was coded by{""}</small>
            <a href="https:/elletamcdaniel.com" 
           target="_blank" rel="noreferrer">
-            Elleta Michell Moire McDaniel
+            Elleta McDaniel
           </a>
           <a href="https://github.com/emcdanie"
             target="_blank" rel="noreferrer">Open-sourced on GitHub</a>
