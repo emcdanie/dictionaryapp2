@@ -15,21 +15,21 @@ function App() {
       <small>This project was coded by{""}
           <a 
           href="https:/elletamcdaniel.com" 
-          target="_blank">
+          target="_blank" rel="nonreferrer">
             Elleta Michell Moire McDaniel
           </a>{""}
           and is{" "}
           <a
             href="https://github.com/emcdanie"
-            target="_blank"
-          >
+            target="_blank"rel="nonreferrer">
+          
             open-sourced on GitHub
           </a>{" "}
           and{" "}
           <a
             href="https://www.netlify.com/"
-            target="_blank"
-          >
+            target="_blank"rel="nonreferrer">
+          
             hosted on Netlify
           </a> </small>
 
